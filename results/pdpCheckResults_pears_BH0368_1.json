@@ -1,0 +1,172 @@
+{
+  "generatedAt": "2026-03-12T09:15:08.063Z",
+  "brand": "pears",
+  "assortmentCode": "BH0368",
+  "feedUrl": "https://www.pearspuresince1807.com/ca/en/home.productfeed.json",
+  "totalUrlsChecked": 26,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.pearspuresince1807.com/ca/en/p/pears-with-glycerin-&-natural-oils-bar-soap-100g.html/00305211797771",
+      "gtin": "00305211797771",
+      "checkedAt": "2026-03-12T09:15:08.062Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pearspuresince1807.com/ca/en/p/pears-with-glycerin-&-mint-extracts-bar-soap-125g.html/00856097008555",
+      "gtin": "00856097008555",
+      "checkedAt": "2026-03-12T09:15:07.979Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pearspuresince1807.com/ca/en/p/pears-with-glycerin-&-lemon-flower-extracts-bar-soap-75g-x-3.html/00890103020322",
+      "gtin": "00890103020322",
+      "checkedAt": "2026-03-12T09:15:07.135Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pearspuresince1807.com/ca/fr/p/pain-de-savon-pears-avec-glyc%C3%A9rine-et-extraits-de-menthe-100g.html/00850022820427",
+      "gtin": "00850022820427",
+      "checkedAt": "2026-03-12T09:15:07.980Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pearspuresince1807.com/ca/fr/p/nettoyant-pour-le-corps-pears-avec-huiles-naturelles-500ml.html/00850050048749",
+      "gtin": "00850050048749",
+      "checkedAt": "2026-03-12T09:15:07.133Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pearspuresince1807.com/ca/fr/p/pain-de-savon-pears-avec-glyc%C3%A9rine-et-huiles-naturelles-75g-x-3.html/00890103020261",
+      "gtin": "00890103020261",
+      "checkedAt": "2026-03-12T09:15:07.979Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.pearspuresince1807.com/ca/fr/p/pain-de-savon-pears-avec-glyc%C3%A9rine-et-extraits-de-menthe-75g-x-3.html/08901030560101",
+      "gtin": "08901030560101",
+      "checkedAt": "2026-03-12T09:15:07.979Z"
+    }
+  ],
+  "errors": 19,
+  "duration": "11.67s",
+  "speedMetrics": "2.23 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/en/p/pears-with-glycerin-&-mint-extracts-bar-soap-100g.html/00850022820427",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=en-ca&brand_code=BH0368&gtin=00850022820427 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:05.151Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/en/p/pears-with-glycerin-&-lemon-flower-extracts-bar-soap-100g.html/00850022820434",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=en-ca&brand_code=BH0368&gtin=00850022820434 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:03.590Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/en/p/pears-with-plant-oils-body-wash-500ml.html/00850050048749",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=en-ca&brand_code=BH0368&gtin=00850050048749 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:07.134Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/en/p/pears-lemon-flower-extracts-body-wash-500ml.html/00850050048756",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=en-ca&brand_code=BH0368&gtin=00850050048756 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:06.729Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/en/p/pears-with-mint-extracts-body-wash-500ml.html/00850050048763",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=en-ca&brand_code=BH0368&gtin=00850050048763 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:02.805Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/en/p/pears-with-glycerin-&-natural-oils-bar-soap-125g.html/00856097008579",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=en-ca&brand_code=BH0368&gtin=00856097008579 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:05.930Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/en/p/pears-with-glycerin-&-lemon-flower-extracts-bar-soap-125g.html/00856097008586",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=en-ca&brand_code=BH0368&gtin=00856097008586 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:07.134Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/en/p/pears-with-glycerin-&-natural-oils-bar-soap-75g-x-3.html/00890103020261",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=en-ca&brand_code=BH0368&gtin=00890103020261 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:05.930Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/en/p/pears-with-glycerin-&-natural-oils-bar-soap-75g-x-12.html/00890103020285",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=en-ca&brand_code=BH0368&gtin=00890103020285 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:03.590Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/en/p/pears-with-glycerin-&-mint-extracts-bar-soap-75g-x-3.html/08901030560101",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=en-ca&brand_code=BH0368&gtin=08901030560101 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:03.591Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/fr/p/pain-de-savon-pears-avec-glyc%C3%A9rine-et-huiles-naturelles-100g.html/00305211797771",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=fr-ca&brand_code=BH0368&gtin=00305211797771 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:03.590Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/fr/p/pain-de-savon-pears-avec-glyc%C3%A9rine-et-extraits-de-fleur-de-citronnier-100g.html/00850022820434",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=fr-ca&brand_code=BH0368&gtin=00850022820434 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:07.134Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/fr/p/nettoyant-pour-le-corps-pears-extraits-de-fleur-de-citronnier-500ml.html/00850050048756",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=fr-ca&brand_code=BH0368&gtin=00850050048756 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:07.591Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/fr/p/nettoyant-pour-le-corps-pears-avec-extraits-de-menthe-500ml.html/00850050048763",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=fr-ca&brand_code=BH0368&gtin=00850050048763 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:02.806Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/fr/p/pain-de-savon-pears-avec-glyc%C3%A9rine-et-extraits-de-menthe-125g.html/00856097008555",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=fr-ca&brand_code=BH0368&gtin=00856097008555 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:03.590Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/fr/p/pain-de-savon-pears-avec-glyc%C3%A9rine-et-huiles-naturelles-125g.html/00856097008579",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=fr-ca&brand_code=BH0368&gtin=00856097008579 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:06.729Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/fr/p/pain-de-savon-pears-avec-glyc%C3%A9rine-et-extraits-de-fleur-de-citronnier-125g.html/00856097008586",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=fr-ca&brand_code=BH0368&gtin=00856097008586 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:05.152Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/fr/p/pain-de-savon-pears-avec-glyc%C3%A9rine-et-huiles-naturelles-75g-x-12.html/00890103020285",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=fr-ca&brand_code=BH0368&gtin=00890103020285 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:07.591Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.pearspuresince1807.com/ca/fr/p/pain-de-savon-pears-avec-glyc%C3%A9rine-et-extraits-de-fleur-de-citronnier-75g-x-3.html/00890103020322",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=pears&locale=fr-ca&brand_code=BH0368&gtin=00890103020322 failed, reason: ",
+      "checkedAt": "2026-03-12T09:15:02.806Z"
+    }
+  ]
+}

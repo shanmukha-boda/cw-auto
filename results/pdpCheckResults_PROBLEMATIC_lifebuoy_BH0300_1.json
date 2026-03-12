@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-03-12T09:11:24.588Z",
+  "brand": "lifebuoy",
+  "assortmentCode": "BH0300",
+  "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+  "totalProblematicPages": 1,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/sabun-batang-lemon-fresh-anti-bakteri-68g.html/08999999059323",
+      "gtin": "08999999059323",
+      "checkedAt": "2026-03-12T09:11:24.587Z"
+    }
+  ]
+}

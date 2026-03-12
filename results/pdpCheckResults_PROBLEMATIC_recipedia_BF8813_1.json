@@ -1,0 +1,63 @@
+{
+  "generatedAt": "2026-03-12T09:31:56.689Z",
+  "brand": "recipedia",
+  "assortmentCode": "BF8813",
+  "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+  "totalProblematicPages": 6,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-tesztas-keszetel-kremes-sajtszoszos.html/08721201921599",
+      "gtin": "08721201921599",
+      "checkedAt": "2026-03-12T09:31:56.254Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-edes-savanyu-szosz.html/08710908934674",
+      "gtin": "08710908934674",
+      "checkedAt": "2026-03-12T09:31:56.254Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/globus-ketchup-olaszos.html/08720182821409",
+      "gtin": "08720182821409",
+      "checkedAt": "2026-03-12T09:31:48.879Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/globus-light-majonez.html/08721201900969",
+      "gtin": "08721201900969",
+      "checkedAt": "2026-03-12T09:31:56.258Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/knorr-snack-tesztas-keszetel-ementali-szoszos.html/08721201920363",
+      "gtin": "08721201920363",
+      "checkedAt": "2026-03-12T09:31:56.257Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "recipedia",
+      "assortmentCode": "BF8813",
+      "feedUrl": "https://www.receptmuhely.hu/home.productfeed.json",
+      "url": "https://www.receptmuhely.hu/p/hellmanns-chunky-burger-szosz.html/08721317797279",
+      "gtin": "08721317797279",
+      "checkedAt": "2026-03-12T09:31:56.258Z"
+    }
+  ]
+}

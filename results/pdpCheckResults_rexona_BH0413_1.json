@@ -1,0 +1,274 @@
+{
+  "generatedAt": "2026-03-12T09:09:23.043Z",
+  "brand": "rexona",
+  "assortmentCode": "BH0413",
+  "feedUrl": "https://www.rexona.com/tr/home.productfeed.json",
+  "totalUrlsChecked": 43,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-men-invisible-black%2Bwhite-antiperspirant-erkek-roll-on-deodorant-50-ml.html/00000059079477",
+      "gtin": "00000059079477",
+      "checkedAt": "2026-03-12T09:09:22.085Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-shower-fresh-antiperspirant-kad%C4%B1n-roll-on-deodorant-50-ml.html/00000059079798",
+      "gtin": "00000059079798",
+      "checkedAt": "2026-03-12T09:09:23.040Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-men-xtra-cool-antiperspirant-erkek-roll-on-deodorant-50-ml.html/00000059082637",
+      "gtin": "00000059082637",
+      "checkedAt": "2026-03-12T09:09:21.936Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-men-clinical-protection-antiperspirant-erkek-sprey-deodorant-150-ml.html/08683130001332",
+      "gtin": "08683130001332",
+      "checkedAt": "2026-03-12T09:09:23.039Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-clinical-protection-antiperspirant-kad%C4%B1n-sprey-deodorant-150-ml.html/08683130001349",
+      "gtin": "08683130001349",
+      "checkedAt": "2026-03-12T09:09:23.039Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-shower-fresh-antiperspirant-kad%C4%B1n-sprey-deodorant-200-ml.html/08683130019184",
+      "gtin": "08683130019184",
+      "checkedAt": "2026-03-12T09:09:21.933Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-sexy-bouquet-antiperspirant-kad%C4%B1n-sprey-deodorant-150-ml.html/08683130019269",
+      "gtin": "08683130019269",
+      "checkedAt": "2026-03-12T09:09:22.085Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-seftali-&-limon-otu-antiperspirant-kad%C4%B1n-sprey-deodorant-150-ml.html/08683130019306",
+      "gtin": "08683130019306",
+      "checkedAt": "2026-03-12T09:09:21.933Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-men-k%C3%B6m%C3%BCr-detox-antiperspirant-erkek-sprey-deodorant-150-ml.html/08683130019320",
+      "gtin": "08683130019320",
+      "checkedAt": "2026-03-12T09:09:21.937Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-invisible-black%2Bwhite-antiperspirant-kad%C4%B1n-sprey-deodorant-200-ml.html/08683130020241",
+      "gtin": "08683130020241",
+      "checkedAt": "2026-03-12T09:09:21.930Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-invisible-fresh-antiperspirant-kad%C4%B1n-sprey-deodorant-150-ml.html/08683130020289",
+      "gtin": "08683130020289",
+      "checkedAt": "2026-03-12T09:09:23.039Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-men-invisible-ice-fresh-antiperspirant-erkek-sprey-deodorant-150-ml.html/08683130020296",
+      "gtin": "08683130020296",
+      "checkedAt": "2026-03-12T09:09:23.042Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-men-invisible-black%2Bwhite-antiperspirant-erkek-sprey-deodorant-150-ml.html/08683130020302",
+      "gtin": "08683130020302",
+      "checkedAt": "2026-03-12T09:09:21.933Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-men-champions-antiperspirant-erkek-sprey-deodorant-150-ml.html/08683130027486",
+      "gtin": "08683130027486",
+      "checkedAt": "2026-03-12T09:09:22.085Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-men-invisible-ocean-deep-antiperspirant-erkek-sprey-deodorant-150-ml.html/08683130039090",
+      "gtin": "08683130039090",
+      "checkedAt": "2026-03-12T09:09:21.934Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-men-quantum-dry-antipersipant-erkek-stick-deodorant-50-ml.html/08683130061411",
+      "gtin": "08683130061411",
+      "checkedAt": "2026-03-12T09:09:23.041Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-men-cobalt-dry-antipersipant-erkek-stick-deodorant-50-ml.html/08683130061466",
+      "gtin": "08683130061466",
+      "checkedAt": "2026-03-12T09:09:22.085Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-clinical-protection-confidence-antipersipant-kad%C4%B1n-stick-deodorant-45-ml.html/08683130070345",
+      "gtin": "08683130070345",
+      "checkedAt": "2026-03-12T09:09:21.941Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-mystic-nonantipersipant-kad%C4%B1n-sprey-deodorant-150-ml.html/08683130070536",
+      "gtin": "08683130070536",
+      "checkedAt": "2026-03-12T09:09:21.942Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-ocean-nonantipersipant-kad%C4%B1n-sprey-deodorant-150-ml.html/08683130070543",
+      "gtin": "08683130070543",
+      "checkedAt": "2026-03-12T09:09:23.039Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-passion-nonantipersipant-kad%C4%B1n-sprey-deodorant-150-ml.html/08683130070567",
+      "gtin": "08683130070567",
+      "checkedAt": "2026-03-12T09:09:21.937Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-vitamin-bright-kad%C4%B1n-roll-on-deodorant-rose-glow-45-ml.html/08683130088326",
+      "gtin": "08683130088326",
+      "checkedAt": "2026-03-12T09:09:21.930Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-vitamin-bright-kad%C4%B1n-roll-on-deodorant-sakura-radiance-45-ml.html/08683130088357",
+      "gtin": "08683130088357",
+      "checkedAt": "2026-03-12T09:09:23.040Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-clinical-protection-shower-clean-antiperspirant-kad%C4%B1n-stick-deodorant-45-ml.html/08690637811593",
+      "gtin": "08690637811593",
+      "checkedAt": "2026-03-12T09:09:23.040Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-men-invisible-black%2Bwhite-antiperspirant-erkek-stick-deodorant-40-gr.html/08690637875922",
+      "gtin": "08690637875922",
+      "checkedAt": "2026-03-12T09:09:21.936Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-cotton-dry-antiperspirant-kad%C4%B1n-roll-on-deodorant-50-ml.html/08710847860829",
+      "gtin": "08710847860829",
+      "checkedAt": "2026-03-12T09:09:22.085Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-sunflower-care-deodorants-45ml.html/08851932463997",
+      "gtin": "08851932463997",
+      "checkedAt": "2026-03-12T09:09:23.040Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.rexona.com/tr/p/rexona-clinical-protection-men-active-fresh-antipersipant-erkek-stick-deodorant-45-ml.html/08690637811470",
+      "gtin": "08690637811470",
+      "checkedAt": "2026-03-12T09:09:21.937Z"
+    }
+  ],
+  "errors": 15,
+  "duration": "6.99s",
+  "speedMetrics": "6.15 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/tr/p/rexona-powder-dry-antipersipant-kad%C4%B1n-roll-on-deodorant-50-ml.html/06221155149183",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=tr-tr&brand_code=BH0413&gtin=06221155149183 failed, reason: ",
+      "checkedAt": "2026-03-12T09:09:21.780Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/tr/p/rexona-bambu-&-aloe-vera-antiperspirant-kad%C4%B1n-roll-on-deodorant-50-ml.html/06221155149237",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=tr-tr&brand_code=BH0413&gtin=06221155149237 failed, reason: ",
+      "checkedAt": "2026-03-12T09:09:21.780Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/tr/p/rexona-men-active-dry-antiperspirant-roll-on-deodorant-50-ml.html/06221155149275",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=tr-tr&brand_code=BH0413&gtin=06221155149275 failed, reason: ",
+      "checkedAt": "2026-03-12T09:09:21.780Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/tr/p/rexona-men-xtra-cool-antiperspirant-erkek-sprey-deodorant-200-ml.html/08683130019191",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=tr-tr&brand_code=BH0413&gtin=08683130019191 failed, reason: ",
+      "checkedAt": "2026-03-12T09:09:21.779Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/tr/p/rexona-bambu-&-aloe-vera-antiperspirant-kad%C4%B1n-sprey-deodorant-150-ml.html/08683130019276",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=tr-tr&brand_code=BH0413&gtin=08683130019276 failed, reason: ",
+      "checkedAt": "2026-03-12T09:09:20.960Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/tr/p/rexona-cotton-dry-antiperspirant-kad%C4%B1n-sprey-deodorant-150-ml.html/08683130019283",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=tr-tr&brand_code=BH0413&gtin=08683130019283 failed, reason: ",
+      "checkedAt": "2026-03-12T09:09:20.958Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/tr/p/rexona-shower-fresh-antiperspirant-kad%C4%B1n-sprey-deodorant-150-ml.html/08683130019290",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=tr-tr&brand_code=BH0413&gtin=08683130019290 failed, reason: ",
+      "checkedAt": "2026-03-12T09:09:21.779Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/tr/p/rexona-men-mint-fresh-antiperspirant-erkek-sprey-deodorant-150-ml.html/08683130019313",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=tr-tr&brand_code=BH0413&gtin=08683130019313 failed, reason: ",
+      "checkedAt": "2026-03-12T09:09:21.780Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/tr/p/rexona-men-xtra-cool-antiperspirant-erkek-sprey-deodorant-150-ml.html/08683130019344",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=tr-tr&brand_code=BH0413&gtin=08683130019344 failed, reason: ",
+      "checkedAt": "2026-03-12T09:09:20.959Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/tr/p/rexona-men-invisible-black%2Bwhite-antiperspirant-erkek-sprey-deodorant-200-ml.html/08683130020258",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=tr-tr&brand_code=BH0413&gtin=08683130020258 failed, reason: ",
+      "checkedAt": "2026-03-12T09:09:20.959Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/tr/p/rexona-invisible-black%2Bwhite-antiperspirant-kad%C4%B1n-sprey-deodorant-150-ml.html/08683130020265",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=tr-tr&brand_code=BH0413&gtin=08683130020265 failed, reason: ",
+      "checkedAt": "2026-03-12T09:09:20.959Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/tr/p/rexona-invisible-black%2Bwhite-antiperspirant-kad%C4%B1n-stick-deodorant-50-gr.html/08683130033890",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=tr-tr&brand_code=BH0413&gtin=08683130033890 failed, reason: ",
+      "checkedAt": "2026-03-12T09:09:20.960Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/tr/p/rexona-clinical-protection-men-clean-scent-antipersipant-erkek-stick-deodorant-45-ml.html/08683130070376",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=tr-tr&brand_code=BH0413&gtin=08683130070376 failed, reason: ",
+      "checkedAt": "2026-03-12T09:09:20.960Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/tr/p/rexona-musk-nonantipersipant-kad%C4%B1n-sprey-deodorant-150-ml.html/08683130070550",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=tr-tr&brand_code=BH0413&gtin=08683130070550 failed, reason: ",
+      "checkedAt": "2026-03-12T09:09:20.960Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.rexona.com/tr/p/rexona-invisible-black%2Bwhite-antiperspirant-kad%C4%B1n-roll-on-deodorant-50-ml.html/08710847860843",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=rexona&locale=tr-tr&brand_code=BH0413&gtin=08710847860843 failed, reason: ",
+      "checkedAt": "2026-03-12T09:09:21.780Z"
+    }
+  ]
+}

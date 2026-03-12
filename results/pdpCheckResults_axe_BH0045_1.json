@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2026-03-12T09:14:31.246Z",
+  "brand": "axe",
+  "assortmentCode": "BH0045",
+  "feedUrl": "https://www.axe.com/br/home.productfeed.json",
+  "totalUrlsChecked": 6,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.axe.com/br/p/antitranspirante-black.html/07791293028781",
+      "gtin": "07791293028781",
+      "checkedAt": "2026-03-12T09:14:31.246Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.axe.com/br/p/antitranspirante-marine.html/07891150080966",
+      "gtin": "07891150080966",
+      "checkedAt": "2026-03-12T09:14:31.094Z"
+    }
+  ],
+  "errors": 4,
+  "duration": "11.30s",
+  "speedMetrics": "0.53 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.axe.com/br/p/antitranspirante-urban.html/07506306233362",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=pt-br&brand_code=BH0045&gtin=07506306233362 failed, reason: ",
+      "checkedAt": "2026-03-12T09:14:26.004Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.axe.com/br/p/antitranspirante-apollo.html/07791293025780",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=pt-br&brand_code=BH0045&gtin=07791293025780 failed, reason: ",
+      "checkedAt": "2026-03-12T09:14:27.688Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.axe.com/br/p/antitranspirante-chocolate.html/07791293025797",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=pt-br&brand_code=BH0045&gtin=07791293025797 failed, reason: ",
+      "checkedAt": "2026-03-12T09:14:31.005Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.axe.com/br/p/antitranspirante-musk.html/07891150080973",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=pt-br&brand_code=BH0045&gtin=07891150080973 failed, reason: ",
+      "checkedAt": "2026-03-12T09:14:31.005Z"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "generatedAt": "2026-03-12T09:13:40.465Z",
+  "brand": "fluocaril",
+  "assortmentCode": "BHA122",
+  "feedUrl": "https://www.fluocaril.fr/home.productfeed.json",
+  "totalUrlsChecked": 20,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.fluocaril.fr/p/fluocaril-cosmetique-spray-buccal.html/08710522965665",
+      "gtin": "08710522965665",
+      "checkedAt": "2026-03-12T09:13:36.591Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.fluocaril.fr/p/fluocaril-dentifrice-bi-fluore-dents-sensibles.html/08710604763196",
+      "gtin": "08710604763196",
+      "checkedAt": "2026-03-12T09:13:39.763Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.fluocaril.fr/p/fluocaril-dentifrice-blancheur-bi-fluore-145-mg.html/08710604763219",
+      "gtin": "08710604763219",
+      "checkedAt": "2026-03-12T09:13:36.175Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.fluocaril.fr/p/fluocaril-dentifrice-junior-gel-fruits-rouges-145mg.html/08710604763295",
+      "gtin": "08710604763295",
+      "checkedAt": "2026-03-12T09:13:39.766Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.fluocaril.fr/p/fluocaril-dentifrice-junior-gel-bubble-gum-145-mg.html/08710604763301",
+      "gtin": "08710604763301",
+      "checkedAt": "2026-03-12T09:13:40.464Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.fluocaril.fr/p/fluocaril-dentifrice-kids-gel-fraise-bi-fluore-100-mg.html/08710604763318",
+      "gtin": "08710604763318",
+      "checkedAt": "2026-03-12T09:13:40.161Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.fluocaril.fr/p/fluocaril-bain-de-bouche-bi-fluore.html/08710604763592",
+      "gtin": "08710604763592",
+      "checkedAt": "2026-03-12T09:13:38.615Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.fluocaril.fr/p/fluocaril-brosse-a-dents-sensibilite-extra-souple.html/08720181361913",
+      "gtin": "08720181361913",
+      "checkedAt": "2026-03-12T09:13:38.615Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.fluocaril.fr/p/fluocaril-brosse-a-dents-precision-interdentaire-souple.html/08720181361920",
+      "gtin": "08720181361920",
+      "checkedAt": "2026-03-12T09:13:36.987Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.fluocaril.fr/p/fluocaril-brosse-a-dents-precision-interdentaire-medium.html/08720181361937",
+      "gtin": "08720181361937",
+      "checkedAt": "2026-03-12T09:13:39.766Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.fluocaril.fr/p/fluocaril-brosse-a-dents-junior-6-13-ans.html/08720181502781",
+      "gtin": "08720181502781",
+      "checkedAt": "2026-03-12T09:13:39.763Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.fluocaril.fr/p/fluocaril-brosse-a-dents-kids-0-6-ans.html/08720181502798",
+      "gtin": "08720181502798",
+      "checkedAt": "2026-03-12T09:13:36.174Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.fluocaril.fr/p/fluocaril-natur-essence-blancheur-75ml.html/08720182015464",
+      "gtin": "08720182015464",
+      "checkedAt": "2026-03-12T09:13:39.766Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.fluocaril.fr/p/fluocaril-natur-essence-original-75ml.html/08720182020741",
+      "gtin": "08720182020741",
+      "checkedAt": "2026-03-12T09:13:36.175Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.fluocaril.fr/p/fluocaril-fil-dentaire-infuse-au-fluor-30-m.html/08720181089473",
+      "gtin": "08720181089473",
+      "checkedAt": "2026-03-12T09:13:36.592Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.fluocaril.fr/p/fluocaril-junior-dentifrice-6-13-ans-menthe-douce-pr%C3%A9vention-des-caries-75ml.html/08720181491559",
+      "gtin": "08720181491559",
+      "checkedAt": "2026-03-12T09:13:36.175Z"
+    }
+  ],
+  "errors": 4,
+  "duration": "9.28s",
+  "speedMetrics": "2.16 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.fluocaril.fr/p/fluocaril-dentifrice-bi-fluore-menthe-145-mg.html/08710604763233",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=fluocaril&locale=fr-fr&brand_code=BHA122&gtin=08710604763233 failed, reason: ",
+      "checkedAt": "2026-03-12T09:13:34.177Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.fluocaril.fr/p/fluocaril-dentifrice-bi-fluor%C3%A9-gencives-145mg.html/08710604763202",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=fluocaril&locale=fr-fr&brand_code=BHA122&gtin=08710604763202 failed, reason: ",
+      "checkedAt": "2026-03-12T09:13:34.580Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.fluocaril.fr/p/fluocaril-dentifrice-protection-compl%C3%A8te-75ml.html/08720181512490",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=fluocaril&locale=fr-fr&brand_code=BHA122&gtin=08720181512490 failed, reason: ",
+      "checkedAt": "2026-03-12T09:13:34.966Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.fluocaril.fr/p/fluocaril-dentifrice-protection-compl%C3%A8te-blancheur-75ml.html/08720181512506",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=fluocaril&locale=fr-fr&brand_code=BHA122&gtin=08720181512506 failed, reason: ",
+      "checkedAt": "2026-03-12T09:13:34.177Z"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2026-03-12T09:09:31.477Z",
+  "totalProblematicPages": 4,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/deodorant-original-100-ml.html/08710847868498",
+      "gtin": "08710847868498",
+      "checkedAt": "2026-03-12T09:09:27.840Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/deodorant-poederzacht-100-ml.html/08710847868504",
+      "gtin": "08710847868504",
+      "checkedAt": "2026-03-12T09:09:27.841Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/zeepvrij-schuimbad-400-ml.html/08720181647253",
+      "gtin": "08720181647253",
+      "checkedAt": "2026-03-12T09:09:29.767Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "zwitsal",
+      "assortmentCode": "BH0875",
+      "feedUrl": "https://www.zwitsal.nl/home.productfeed.json",
+      "url": "https://www.zwitsal.nl/p/zeepvrij-schuimbad-200-ml.html/08720181647444",
+      "gtin": "08720181647444",
+      "checkedAt": "2026-03-12T09:09:30.534Z"
+    }
+  ]
+}

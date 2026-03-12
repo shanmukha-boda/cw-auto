@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-03-12T09:17:05.497Z",
+  "brand": "sunsilk",
+  "assortmentCode": "BH0178",
+  "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+  "totalProblematicPages": 1,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/brezilya-keratin-terapisi-yogun-onarici-220ml.html/08683130090381",
+      "gtin": "08683130090381",
+      "checkedAt": "2026-03-12T09:17:05.495Z"
+    }
+  ]
+}

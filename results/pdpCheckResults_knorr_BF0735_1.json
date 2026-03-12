@@ -1,0 +1,147 @@
+{
+  "generatedAt": "2026-03-12T09:10:55.574Z",
+  "brand": "knorr",
+  "assortmentCode": "BF0735",
+  "feedUrl": "https://www.royco.co.id/home.productfeed.json",
+  "totalUrlsChecked": 22,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/nasi-goreng-pedas.html/08999999039288",
+      "gtin": "08999999039288",
+      "checkedAt": "2026-03-12T09:10:55.459Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/nasi-goreng.html/08999999039868",
+      "gtin": "08999999039868",
+      "checkedAt": "2026-03-12T09:10:55.385Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/sup-krim-ayam.html/08999999191436",
+      "gtin": "08999999191436",
+      "checkedAt": "2026-03-12T09:10:55.397Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/sup-krim-jagung.html/08999999191443",
+      "gtin": "08999999191443",
+      "checkedAt": "2026-03-12T09:10:55.389Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/kaldu-ayam-kampung-medium-pack.html/08999999192150",
+      "gtin": "08999999192150",
+      "checkedAt": "2026-03-12T09:10:55.385Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/kaldu-sapi-medium-pack.html/08999999192198",
+      "gtin": "08999999192198",
+      "checkedAt": "2026-03-12T09:10:55.438Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/kaldu-ayam-big-pack.html/08999999193317",
+      "gtin": "08999999193317",
+      "checkedAt": "2026-03-12T09:10:55.124Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/kaldu-sapi-big-pack.html/08999999193324",
+      "gtin": "08999999193324",
+      "checkedAt": "2026-03-12T09:10:55.123Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/kaldu-ayam-sachet.html/08999999502393",
+      "gtin": "08999999502393",
+      "checkedAt": "2026-03-12T09:10:55.397Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/kaldu-sapi-sachet.html/08999999502409",
+      "gtin": "08999999502409",
+      "checkedAt": "2026-03-12T09:10:55.412Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/kaldu-ayam-kampung-big-pack.html/08999999516208",
+      "gtin": "08999999516208",
+      "checkedAt": "2026-03-12T09:10:55.573Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/kaldu-sapi-big-pack.html/08999999516215",
+      "gtin": "08999999516215",
+      "checkedAt": "2026-03-12T09:10:55.387Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/ayam-bumbu-rujak.html/08999999531218",
+      "gtin": "08999999531218",
+      "checkedAt": "2026-03-12T09:10:55.390Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/nasi-goreng-cabe-hijau.html/08999999531225",
+      "gtin": "08999999531225",
+      "checkedAt": "2026-03-12T09:10:55.386Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/nasi-goreng-rendang.html/08999999531232",
+      "gtin": "08999999531232",
+      "checkedAt": "2026-03-12T09:10:55.387Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/sup-krim-kepiting-dan-jagung.html/08999999537982",
+      "gtin": "08999999537982",
+      "checkedAt": "2026-03-12T09:10:55.348Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/royco-bumbu-kaldu-jamur-170g.html/08999999557041",
+      "gtin": "08999999557041",
+      "checkedAt": "2026-03-12T09:10:55.387Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/royco-bumbu-kaldu-jamur-36g.html/08999999557058",
+      "gtin": "08999999557058",
+      "checkedAt": "2026-03-12T09:10:55.386Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/saus-tiram-275ml.html/08999999576950",
+      "gtin": "08999999576950",
+      "checkedAt": "2026-03-12T09:10:55.128Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/saus-tiram-135ml.html/08999999576967",
+      "gtin": "08999999576967",
+      "checkedAt": "2026-03-12T09:10:55.390Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/kaldu-ayam-kampung-sachet.html/08999999601331",
+      "gtin": "08999999601331",
+      "checkedAt": "2026-03-12T09:10:55.348Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.royco.co.id/p/kaldu-sapi-sachet.html/08999999601348",
+      "gtin": "08999999601348",
+      "checkedAt": "2026-03-12T09:10:55.390Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "6.26s",
+  "speedMetrics": "3.51 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}

@@ -1,0 +1,51 @@
+{
+  "generatedAt": "2026-03-12T09:12:04.144Z",
+  "brand": "folicure",
+  "assortmentCode": "BH1005",
+  "feedUrl": "https://www.folicure.com.mx/home.productfeed.json",
+  "totalUrlsChecked": 6,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.folicure.com.mx/p/folicure-shampoo-control-caida-original-700-ml.html/07501059334717",
+      "gtin": "07501059334717",
+      "checkedAt": "2026-03-12T09:11:59.406Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.folicure.com.mx/p/folicure-shampoo-control-caida-extra-700-ml.html/07501059338531",
+      "gtin": "07501059338531",
+      "checkedAt": "2026-03-12T09:12:04.144Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.folicure.com.mx/p/folicure-shampoo-control-caspa-limpieza-renovadora-700-ml.html/07506306213029",
+      "gtin": "07506306213029",
+      "checkedAt": "2026-03-12T09:12:02.714Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.folicure.com.mx/p/folicure-shampoo-control-caspa-men-2en1-700-ml.html/07506306213036",
+      "gtin": "07506306213036",
+      "checkedAt": "2026-03-12T09:12:03.783Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.folicure.com.mx/p/folicure-shampoo-control-caspa-hidratacion-2en1-700-ml.html/07506306213050",
+      "gtin": "07506306213050",
+      "checkedAt": "2026-03-12T09:11:59.286Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.folicure.com.mx/p/folicure-acondicionador-control-caida-humectacion-profunda-350-m.html/07506306213067",
+      "gtin": "07506306213067",
+      "checkedAt": "2026-03-12T09:12:03.783Z"
+    }
+  ],
+  "errors": 0,
+  "duration": "7.03s",
+  "speedMetrics": "0.85 URLs/second",
+  "problematicPages": [],
+  "errorPages": []
+}
