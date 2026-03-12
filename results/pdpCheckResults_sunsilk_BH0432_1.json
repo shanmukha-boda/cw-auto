@@ -1,0 +1,710 @@
+{
+  "generatedAt": "2026-03-12T10:10:49.618Z",
+  "brand": "sunsilk",
+  "assortmentCode": "BH0432",
+  "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+  "totalUrlsChecked": 113,
+  "problematicPagesFound": 5,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-cachos-definidos-e-hidratados.html/07891037000322",
+      "gtin": "07891037000322",
+      "checkedAt": "2026-03-12T10:10:37.963Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-liso-perfeito.html/07891037010048",
+      "gtin": "07891037010048",
+      "checkedAt": "2026-03-12T10:10:36.930Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-ceramidas.html/07891037144705",
+      "gtin": "07891037144705",
+      "checkedAt": "2026-03-12T10:10:31.987Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-crescimento-saud%C3%A1vel.html/07891150002166",
+      "gtin": "07891150002166",
+      "checkedAt": "2026-03-12T10:10:43.142Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-by-gabi-crespoforce.html/07891150027541",
+      "gtin": "07891150027541",
+      "checkedAt": "2026-03-12T10:10:38.975Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-liso-perfeito.html/07891150037328",
+      "gtin": "07891150037328",
+      "checkedAt": "2026-03-12T10:10:35.693Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-pretos-luminosos.html/07891150037342",
+      "gtin": "07891150037342",
+      "checkedAt": "2026-03-12T10:10:11.842Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-oleo-hidratacao.html/07891150037366",
+      "gtin": "07891150037366",
+      "checkedAt": "2026-03-12T10:10:31.314Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-ceramidas.html/07891150037397",
+      "gtin": "07891150037397",
+      "checkedAt": "2026-03-12T10:10:38.067Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-restauracao-instantanea.html/07891150037427",
+      "gtin": "07891150037427",
+      "checkedAt": "2026-03-12T10:10:36.056Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-mel-e-aveia.html/07891150037441",
+      "gtin": "07891150037441",
+      "checkedAt": "2026-03-12T10:10:33.852Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-hidratacao-diaria.html/07891150037458",
+      "gtin": "07891150037458",
+      "checkedAt": "2026-03-12T10:10:21.333Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-cachos-definidos.html/07891150037465",
+      "gtin": "07891150037465",
+      "checkedAt": "2026-03-12T10:10:35.179Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-by-gabi-crespoforce.html/07891150037472",
+      "gtin": "07891150037472",
+      "checkedAt": "2026-03-12T10:10:41.228Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-liso-extremo.html/07891150037502",
+      "gtin": "07891150037502",
+      "checkedAt": "2026-03-12T10:10:37.193Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-liso-perfeito.html/07891150037519",
+      "gtin": "07891150037519",
+      "checkedAt": "2026-03-12T10:10:39.860Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-pretos-luminosos.html/07891150037526",
+      "gtin": "07891150037526",
+      "checkedAt": "2026-03-12T10:10:35.886Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-cha-verde-e-citricos.html/07891150037564",
+      "gtin": "07891150037564",
+      "checkedAt": "2026-03-12T10:10:12.322Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-restauracao-instantanea.html/07891150037571",
+      "gtin": "07891150037571",
+      "checkedAt": "2026-03-12T10:10:41.069Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-mel-e-aveia.html/07891150037588",
+      "gtin": "07891150037588",
+      "checkedAt": "2026-03-12T10:10:36.454Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-cachos-definidos.html/07891150037595",
+      "gtin": "07891150037595",
+      "checkedAt": "2026-03-12T10:10:30.537Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-frutas-vermelhas-e-gengibre.html/07891150037601",
+      "gtin": "07891150037601",
+      "checkedAt": "2026-03-12T10:10:38.374Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-by-gabi-crespoforce.html/07891150037618",
+      "gtin": "07891150037618",
+      "checkedAt": "2026-03-12T10:10:37.722Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-liso-extremo.html/07891150037632",
+      "gtin": "07891150037632",
+      "checkedAt": "2026-03-12T10:10:33.488Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-brilho-encantado.html/07891150042773",
+      "gtin": "07891150042773",
+      "checkedAt": "2026-03-12T10:10:33.971Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-abacate-e-karit%C3%A9.html/07891150049604",
+      "gtin": "07891150049604",
+      "checkedAt": "2026-03-12T10:10:36.954Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-abacate-e-karit%C3%A9.html/07891150049628",
+      "gtin": "07891150049628",
+      "checkedAt": "2026-03-12T10:10:34.131Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-definicao.html/07891150054493",
+      "gtin": "07891150054493",
+      "checkedAt": "2026-03-12T10:10:31.246Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-volumao.html/07891150054509",
+      "gtin": "07891150054509",
+      "checkedAt": "2026-03-12T10:10:40.307Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-transicao.html/07891150054523",
+      "gtin": "07891150054523",
+      "checkedAt": "2026-03-12T10:10:33.690Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-argan-reconstrucao.html/07891150056572",
+      "gtin": "07891150056572",
+      "checkedAt": "2026-03-12T10:10:39.407Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-argan-reconstrucao.html/07891150056589",
+      "gtin": "07891150056589",
+      "checkedAt": "2026-03-12T10:10:39.081Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/m%C3%A1scara-de-tratamento-seda-boom-restaura.html/07891150058019",
+      "gtin": "07891150058019",
+      "checkedAt": "2026-03-12T10:10:36.254Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/m%C3%A1scara-de-tratamento-seda-boom-hidrata.html/07891150058040",
+      "gtin": "07891150058040",
+      "checkedAt": "2026-03-12T10:10:12.155Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-by-rayza-babosa-e-%C3%B3leos.html/07891150060685",
+      "gtin": "07891150060685",
+      "checkedAt": "2026-03-12T10:10:38.579Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-by-niina-micelar-hialuronico.html/07891150063440",
+      "gtin": "07891150063440",
+      "checkedAt": "2026-03-12T10:10:36.285Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-by-niina-micelar-hialuronico.html/07891150063457",
+      "gtin": "07891150063457",
+      "checkedAt": "2026-03-12T10:10:37.056Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/super-condicionador-1-minuto-seda-for%C3%A7a-&-brilho.html/07891150063969",
+      "gtin": "07891150063969",
+      "checkedAt": "2026-03-12T10:10:49.618Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-ondas.html/07891150066717",
+      "gtin": "07891150066717",
+      "checkedAt": "2026-03-12T10:10:38.367Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-cachos.html/07891150066724",
+      "gtin": "07891150066724",
+      "checkedAt": "2026-03-12T10:10:40.707Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-crespos.html/07891150066731",
+      "gtin": "07891150066731",
+      "checkedAt": "2026-03-12T10:10:38.167Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-coco-reconstrucao.html/07891150067509",
+      "gtin": "07891150067509",
+      "checkedAt": "2026-03-12T10:10:35.677Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-coco-reconstrucao.html/07891150067516",
+      "gtin": "07891150067516",
+      "checkedAt": "2026-03-12T10:10:37.551Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-bambu-e-biotina.html/07891150070295",
+      "gtin": "07891150070295",
+      "checkedAt": "2026-03-12T10:10:38.310Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/mascara-de-tratamento-seda-raiz-limpa-ponta-sedosa.html/07891150078277",
+      "gtin": "07891150078277",
+      "checkedAt": "2026-03-12T10:10:38.288Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-raiz-limpa-ponta-sedosa.html/07891150078291",
+      "gtin": "07891150078291",
+      "checkedAt": "2026-03-12T10:10:34.900Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-raiz-limpa-ponta-sedosa.html/07891150078307",
+      "gtin": "07891150078307",
+      "checkedAt": "2026-03-12T10:10:35.634Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-hidrata-muito.html/07891150078314",
+      "gtin": "07891150078314",
+      "checkedAt": "2026-03-12T10:10:30.101Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-cresce-forte.html/07891150078338",
+      "gtin": "07891150078338",
+      "checkedAt": "2026-03-12T10:10:37.023Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-cresce-forte.html/07891150078345",
+      "gtin": "07891150078345",
+      "checkedAt": "2026-03-12T10:10:37.239Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-hidrata-muito.html/07891150078369",
+      "gtin": "07891150078369",
+      "checkedAt": "2026-03-12T10:10:35.729Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-by-niina-colageno-vitamina-c.html/07891150080089",
+      "gtin": "07891150080089",
+      "checkedAt": "2026-03-12T10:10:37.087Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/mascara-de-tratamento-seda-by-niina-colageno-vitamina-c.html/07891150080119",
+      "gtin": "07891150080119",
+      "checkedAt": "2026-03-12T10:10:35.493Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-bomba-abacate-e-karit%C3%A9.html/07891150082595",
+      "gtin": "07891150082595",
+      "checkedAt": "2026-03-12T10:10:43.103Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-bomba-coco-e-ricino.html/07891150082601",
+      "gtin": "07891150082601",
+      "checkedAt": "2026-03-12T10:10:38.845Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-cachos-encantados.html/07891150083585",
+      "gtin": "07891150083585",
+      "checkedAt": "2026-03-12T10:10:39.082Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-cachos-encantados.html/07891150083615",
+      "gtin": "07891150083615",
+      "checkedAt": "2026-03-12T10:10:35.407Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-crespos-encantados.html/07891150083622",
+      "gtin": "07891150083622",
+      "checkedAt": "2026-03-12T10:10:39.425Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-crespos-encantados.html/07891150083653",
+      "gtin": "07891150083653",
+      "checkedAt": "2026-03-12T10:10:36.121Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-boom-hidratacao-pro-curvatura.html/07891150088467",
+      "gtin": "07891150088467",
+      "checkedAt": "2026-03-12T10:10:40.094Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-boom-hidratacao-pro-curvatura.html/07891150088504",
+      "gtin": "07891150088504",
+      "checkedAt": "2026-03-12T10:10:32.179Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-pretos-luminosos.html/07898422745301",
+      "gtin": "07898422745301",
+      "checkedAt": "2026-03-12T10:10:39.529Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-defini%C3%A7%C3%A3o-intensa.html/07891150088399",
+      "gtin": "07891150088399",
+      "checkedAt": "2026-03-12T10:10:36.621Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-volume-m%C3%A1ximo.html/07891150088450",
+      "gtin": "07891150088450",
+      "checkedAt": "2026-03-12T10:10:36.455Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-volum%C3%A3o-power.html/07891150095892",
+      "gtin": "07891150095892",
+      "checkedAt": "2026-03-12T10:10:34.928Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-defini%C3%A7%C3%A3o-intensa.html/07891150095908",
+      "gtin": "07891150095908",
+      "checkedAt": "2026-03-12T10:10:36.120Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/m%C3%A1scara-de-tratamento-seda-boom-nutri%C3%A7%C3%A3o-intensa.html/07891150095939",
+      "gtin": "07891150095939",
+      "checkedAt": "2026-03-12T10:10:40.053Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/geleia-lev%C3%ADssima-seda-boom-volume-m%C3%A1ximo.html/07891150096226",
+      "gtin": "07891150096226",
+      "checkedAt": "2026-03-12T10:10:46.663Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/geleia-creme-2-em-1-seda-boom-defini%C3%A7%C3%A3o-intensa.html/07891150096233",
+      "gtin": "07891150096233",
+      "checkedAt": "2026-03-12T10:10:40.140Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-boom-hidrata%C3%A7%C3%A3o-duradoura.html/07891150096257",
+      "gtin": "07891150096257",
+      "checkedAt": "2026-03-12T10:10:44.524Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-boom-hidrata%C3%A7%C3%A3o-duradoura.html/07891150096288",
+      "gtin": "07891150096288",
+      "checkedAt": "2026-03-12T10:10:36.958Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/s%C3%A9rum-gel-antifrizz-seda-boom-defini%C3%A7%C3%A3o-flex%C3%ADvel.html/07891150096301",
+      "gtin": "07891150096301",
+      "checkedAt": "2026-03-12T10:10:35.777Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-boom-nutri%C3%A7%C3%A3o-intensa.html/07891150096318",
+      "gtin": "07891150096318",
+      "checkedAt": "2026-03-12T10:10:35.688Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-luminous-uv.html/07891150099838",
+      "gtin": "07891150099838",
+      "checkedAt": "2026-03-12T10:10:37.149Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-luminous-uv.html/07891150099852",
+      "gtin": "07891150099852",
+      "checkedAt": "2026-03-12T10:10:38.090Z"
+    }
+  ],
+  "errors": 33,
+  "duration": "44.74s",
+  "speedMetrics": "2.53 URLs/second",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-frutas-vermelhas-e-gengibre.html/07891150031746",
+      "gtin": "07891150031746",
+      "checkedAt": "2026-03-12T10:10:31.347Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-by-rayza-babosa-e-%C3%B3leos.html/07891150060883",
+      "gtin": "07891150060883",
+      "checkedAt": "2026-03-12T10:10:33.578Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/%C3%B3leo-em-gel-seda-boom.html/07891150066694",
+      "gtin": "07891150066694",
+      "checkedAt": "2026-03-12T10:10:32.225Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-modelador-antifrizz.html/07891150088368",
+      "gtin": "07891150088368",
+      "checkedAt": "2026-03-12T10:10:35.876Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-volume-m%C3%A1ximo.html/07891150088375",
+      "gtin": "07891150088375",
+      "checkedAt": "2026-03-12T10:10:11.513Z"
+    }
+  ],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-ceramidas.html/07891150037250",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.764Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-crescimento-saud%C3%A1vel.html/07891150037274",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:25.901Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-frutas-vermelhas-e-gengibre.html/07891150037489",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:32.974Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-oleo-hidratacao.html/07891150037540",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:23.492Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-brilho-encantado.html/07891150042780",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:19.141Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/m%C3%A1scara-de-tratamento-seda-boom-nutre.html/07891150058026",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:22.560Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-by-rayza-babosa-e-%C3%B3leos.html/07891150060722",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.053Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/super-condicionador-1-minuto-seda-hidratacao-maxima.html/07891150063945",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:35.759Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/super-condicionador-1-minuto-seda-recuperacao-intensiva.html/07891150063952",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:18.635Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-crespissimos.html/07891150066748",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.120Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-des-coloridos.html/07891150066755",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.122Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-bambu-e-biotina.html/07891150070301",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:20.277Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-by-rayza-p%C3%B3s-danos.html/07891150072886",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:25.041Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/m%C3%A1scara-de-tratamento-seda-by-rayza-p%C3%B3s-danos.html/07891150072893",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:19.740Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/super-condicionador-seda-by-rayza-p%C3%B3s-danos.html/07891150072909",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:21.366Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-raiz-limpa-ponta-sedosa.html/07891150078352",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:33.343Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-by-niina-colageno-vitamina-c.html/07891150080096",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.378Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-by-niina-colageno-vitamina-c.html/07891150080102",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.782Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-crespos-encantados.html/07891150083592",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.496Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-brilho-encantado.html/07891150083639",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.211Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-cachos-encantados.html/07891150083646",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:20.933Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/m%C3%A1scara-de-tratamento-seda-boom-hidrata%C3%A7%C3%A3o-duradoura.html/07891150088573",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.242Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-volum%C3%A3o-power.html/07891150095885",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:22.083Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-defini%C3%A7%C3%A3o-flex%C3%ADvel.html/07891150095915",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.382Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-defini%C3%A7%C3%A3o-flex%C3%ADvel.html/07891150095922",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.864Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/soro-day-after-seda-boom-volum%C3%A3o-power.html/07891150096219",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.387Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/%C3%B3leo-em-gel-seda-boom-volum%C3%A3o-power.html/07891150096240",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.251Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-boom-nutri%C3%A7%C3%A3o-intensa.html/07891150096271",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.467Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/gommage-texturizadora-seda-boom-modelador-antifrizz.html/07891150096295",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.451Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/emuls%C3%A3o-day-after-seda-boom-defini%C3%A7%C3%A3o-intensa.html/07891150096387",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.974Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/serum-leave-in-seda-luminous-uv.html/07891150099821",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.733Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-luminous-uv.html/07891150099845",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:29.717Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/mascara-de-tratamento-seda-luminous-uv.html/07891150099883",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:08.187Z"
+    }
+  ]
+}

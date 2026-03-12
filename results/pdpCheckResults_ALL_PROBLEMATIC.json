@@ -1,0 +1,69 @@
+{
+  "generatedAt": "2026-03-12T10:11:15.426Z",
+  "totalProblematicPages": 7,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/sabun-batang-mild-care-anti-bakteri-68g.html/08999999059316",
+      "gtin": "08999999059316",
+      "checkedAt": "2026-03-12T10:10:23.043Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/sabun-batang-total-10-anti-bakteri-60g.html/08999999567651",
+      "gtin": "08999999567651",
+      "checkedAt": "2026-03-12T10:10:18.948Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/sabun-cair-mild-care-anti-bakteri-botol-250g.html/08999999593469",
+      "gtin": "08999999593469",
+      "checkedAt": "2026-03-12T10:10:27.868Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-merah-putih-limited-edition-timnas-total-10-bar-100gr.html/08999999610098",
+      "gtin": "08999999610098",
+      "checkedAt": "2026-03-12T10:10:23.538Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-merah-putih-limited-edition-timnas-total-10-pump-500ml.html/08999999610104",
+      "gtin": "08999999610104",
+      "checkedAt": "2026-03-12T10:10:27.403Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/lifebuoy-merah-putih-limited-edition-timnas-total-10-pump-100ml.html/08999999610111",
+      "gtin": "08999999610111",
+      "checkedAt": "2026-03-12T10:10:35.943Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "lifebuoy",
+      "assortmentCode": "BH0300",
+      "feedUrl": "https://www.lifebuoy.co.id/home.productfeed.json",
+      "url": "https://www.lifebuoy.co.id/p/fifa-limited-edition-lifebuoy-menthol-kick-body-wash-pouch-360g.html/08999999616113",
+      "gtin": "08999999616113",
+      "checkedAt": "2026-03-12T10:10:37.918Z"
+    }
+  ]
+}

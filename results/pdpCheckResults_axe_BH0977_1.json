@@ -1,0 +1,400 @@
+{
+  "generatedAt": "2026-03-12T10:11:07.814Z",
+  "brand": "axe",
+  "assortmentCode": "BH0977",
+  "feedUrl": "https://www.lynxformen.com/uk/home.productfeed.json",
+  "totalUrlsChecked": 64,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/black-body-spray-deodorant.html/08712561614023",
+      "gtin": "08712561614023",
+      "checkedAt": "2026-03-12T10:10:43.587Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/black-vanilla-body-wash-for-men-400ml.html/08720181598791",
+      "gtin": "08720181598791",
+      "checkedAt": "2026-03-12T10:10:36.878Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/black-antiperspirant-deodorant-aerosol.html/08712561620819",
+      "gtin": "08712561620819",
+      "checkedAt": "2026-03-12T10:10:10.814Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/lynx-aqua-bergamot-premium-deodorant-body-spray.html/08720181445538",
+      "gtin": "08720181445538",
+      "checkedAt": "2026-03-12T10:10:26.192Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/the-full-fragrance-duos-gift-set.html/08720181652295",
+      "gtin": "08720181652295",
+      "checkedAt": "2026-03-12T10:10:32.229Z"
+    }
+  ],
+  "errors": 59,
+  "duration": "61.41s",
+  "speedMetrics": "1.04 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/africa-body-spray.html/00000050082728",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.163Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/cherry-spritz-premium-stick.html/00000059002185",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.466Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/blue-lavander-premium-deodorant-stick.html/00000059004646",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:29.308Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/black-vanilla-premium-deodorant-stick.html/00000059004653",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.285Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/sunset-fresh-roll-on-antiperspirant-deodorant.html/00000059004837",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.388Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-africa-roll-on-antiperspirant-50ml.html/00000059095422",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.421Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/epic-fresh-roll-on-antiperspirant.html/00000059095439",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.744Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/body-spray-gold.html/08710447248997",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.430Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/gold-antiperspirant-deodorant.html/08710447250259",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:29.148Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/body-spray-ice-chill.html/08710447497302",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.466Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/africa-antiperspirant-deodorant-stick.html/08717163611524",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:29.126Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/ice-chill-antiperspirant.html/08717163640838",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.471Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/africa-body-spray-deodorant.html/08717644012208",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.381Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/africa-antiperspirant-deodorant-aerosol.html/08717644016572",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:21.864Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/dark-temptation-body-spray-deodorant.html/08717644277904",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.372Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/body-spray-excite.html/08718114650197",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:23.067Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/epic-fresh-body-spray.html/08720181192043",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.728Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/epic-fresh-antiperspirant.html/08720181192050",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.423Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/epic-fresh-shower-gel.html/08720181204067",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:29.330Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/jungle-fresh-body-spray.html/08720181436703",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.711Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/jungle-fresh-antiperspirant.html/08720181436772",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.253Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/jungle-fresh-stick-antiperspirant.html/08720181437380",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.271Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/jungle-fresh-shower-gel.html/08720181442780",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:31.678Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/white-oak-premium-body-spray.html/08720181515071",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.618Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/cherry-spritz-premium-body-spray.html/08720181554643",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:25.098Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/cocoa-velvet-premium-body-spray.html/08720181554650",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:25.453Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/peach-infusion-premium-body-spray.html/08720181554667",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.123Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/watermelon-freeze-premium-body-spray.html/08720181554674",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.465Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/purple-patchouli-premium-body-spray.html/08720181554681",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.460Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/sunset-fresh-deodorant-body-spray-150ml.html/08720181590825",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.421Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/sunset-fresh-antiperspirant-spray-150ml.html/08720181590900",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:25.503Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/blue-lavander-premium-body-wash.html/08720181598807",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:23.939Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/cherry-spritz-premium-body-wash.html/08720181598814",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:23.473Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/peach-infusion-premium-body-wash.html/08720181598821",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:11:07.813Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/sunset-fresh-shower-gel-225ml.html/08720181605666",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:24.460Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/purple-patchouli-premium-body-wash.html/08720181622106",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.232Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-coconut-sandalwood-lower-body-spray.html/08720181658143",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.173Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-pear-cedarwood-lower-body-spray.html/08720181658150",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:28.508Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/dark-temptation-shower-gel.html/08720181079139",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:21.536Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/excite-shower-gel.html/08720181079153",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.858Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/africa-shower-gel.html/08720181079160",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.043Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/black-shower-gel.html/08720181079177",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.684Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/gold-shower-gel.html/08720181079184",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.836Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/ice-chill-shower-gel.html/08720181079245",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.875Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/leather-cookies-shower-gel.html/08720181079405",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.050Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/blue-lavander-premium-deodorant-body-wash.html/08720181445545",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:31.403Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-black-vanilla-premium-deodorant-body-spray.html/08720181445552",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:26.542Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/emerald-sage-premium-body-spray.html/08720181445576",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:29.692Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-sunset-fresh-win-big-gift-set.html/08720181651915",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:26.580Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-ultimate-icons-plus-fine-fragrance-gift-set.html/08720181652172",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.326Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-fine-fragrance-collection-gift-set.html/08720181652332",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:25.813Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-africa-the-o-g-duo.html/08720181652455",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.443Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-supreme-selection-gift-set.html/08720181749063",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:29.593Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-24-day-advent-calendar.html/08720181749087",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:10:29.877Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-marshmallow-smoke-72hr-premium-body-spray-200-ml.html/08720181807893",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.208Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-limited-edition-fifa-number-10-3-in-1-body-wash-225ml.html/08720181823251",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.505Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-fine-fragrance-marshmallow-smoke-body-wash-400-ml.html/08720181830570",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.074Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-limited-edition-fifa-number-10-men's-anti-perspirant-200ml.html/08720181863318",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.242Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-limited-edition-fifa-number-10-men's-deodorant-200ml.html/08720181863356",
+      "error": "HTTP Error: 429 Too Many Requests",
+      "checkedAt": "2026-03-12T10:10:07.414Z"
+    }
+  ]
+}
