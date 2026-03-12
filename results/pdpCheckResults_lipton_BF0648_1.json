@@ -1,0 +1,340 @@
+{
+  "generatedAt": "2026-03-12T06:40:22.822Z",
+  "brand": "lipton",
+  "assortmentCode": "BF0648",
+  "feedUrl": "https://www.liptonicetea.nl/home.productfeed.json",
+  "totalUrlsChecked": 54,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-sparkling-200ml.html/08711200178605",
+      "gtin": "08711200178605",
+      "checkedAt": "2026-03-12T06:40:20.860Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-200ml.html/08711327497191",
+      "gtin": "08711327497191",
+      "checkedAt": "2026-03-12T06:40:20.859Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-1500ml.html/08711327507487",
+      "gtin": "08711327507487",
+      "checkedAt": "2026-03-12T06:40:20.858Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-lemon-1500ml.html/08711327507500",
+      "gtin": "08711327507500",
+      "checkedAt": "2026-03-12T06:40:20.859Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-1l.html/08711327507524",
+      "gtin": "08711327507524",
+      "checkedAt": "2026-03-12T06:40:20.858Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-sparkling-500-ml.html/08711327508293",
+      "gtin": "08711327508293",
+      "checkedAt": "2026-03-12T06:40:20.863Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-sparkling-1l.html/08711327508439",
+      "gtin": "08711327508439",
+      "checkedAt": "2026-03-12T06:40:20.858Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-sparkling-1500ml.html/08711327508491",
+      "gtin": "08711327508491",
+      "checkedAt": "2026-03-12T06:40:20.865Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-zero-1500ml.html/08711327547841",
+      "gtin": "08711327547841",
+      "checkedAt": "2026-03-12T06:40:20.860Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-1500ml.html/08711327547988",
+      "gtin": "08711327547988",
+      "checkedAt": "2026-03-12T06:40:20.858Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-peach-zero-500-ml.html/08711327550919",
+      "gtin": "08711327550919",
+      "checkedAt": "2026-03-12T06:40:20.858Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-zero-1500ml.html/08711327550926",
+      "gtin": "08711327550926",
+      "checkedAt": "2026-03-12T06:40:21.835Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-zero-200-ml.html/08711327554108",
+      "gtin": "08711327554108",
+      "checkedAt": "2026-03-12T06:40:20.863Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-lemon-250ml.html/08711327571556",
+      "gtin": "08711327571556",
+      "checkedAt": "2026-03-12T06:40:21.835Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-zero-330-ml.html/08711327571587",
+      "gtin": "08711327571587",
+      "checkedAt": "2026-03-12T06:40:20.858Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-zero-250-ml.html/08711327571600",
+      "gtin": "08711327571600",
+      "checkedAt": "2026-03-12T06:40:20.859Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-sparkling-330ml.html/08711327571624",
+      "gtin": "08711327571624",
+      "checkedAt": "2026-03-12T06:40:20.860Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-sparkling-zero-330ml.html/08711327571648",
+      "gtin": "08711327571648",
+      "checkedAt": "2026-03-12T06:40:22.814Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-sparkling-zero-250ml.html/08711327571655",
+      "gtin": "08711327571655",
+      "checkedAt": "2026-03-12T06:40:20.860Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-sparkling-250ml.html/08711327571662",
+      "gtin": "08711327571662",
+      "checkedAt": "2026-03-12T06:40:21.835Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-sparkling-8-x-150ml.html/08711327571679",
+      "gtin": "08711327571679",
+      "checkedAt": "2026-03-12T06:40:20.869Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-250ml.html/08711327573819",
+      "gtin": "08711327573819",
+      "checkedAt": "2026-03-12T06:40:20.859Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-peach-1500ml.html/08711327579033",
+      "gtin": "08711327579033",
+      "checkedAt": "2026-03-12T06:40:20.857Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-peach-500ml.html/08711327579057",
+      "gtin": "08711327579057",
+      "checkedAt": "2026-03-12T06:40:21.835Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-peach-1500ml.html/08711327579064",
+      "gtin": "08711327579064",
+      "checkedAt": "2026-03-12T06:40:20.859Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-lemon-1500ml.html/08711327583917",
+      "gtin": "08711327583917",
+      "checkedAt": "2026-03-12T06:40:20.865Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-sparkling-zero-500ml.html/08711327586079",
+      "gtin": "08711327586079",
+      "checkedAt": "2026-03-12T06:40:20.860Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-mango-zero-500-ml.html/08711327586697",
+      "gtin": "08711327586697",
+      "checkedAt": "2026-03-12T06:40:20.866Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-strawberry-500ml.html/08711327624177",
+      "gtin": "08711327624177",
+      "checkedAt": "2026-03-12T06:40:22.822Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-mango-zero-1500ml.html/08711327632707",
+      "gtin": "08711327632707",
+      "checkedAt": "2026-03-12T06:40:21.836Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-sparkling-green-citrus-250ml.html/08711327670624",
+      "gtin": "08711327670624",
+      "checkedAt": "2026-03-12T06:40:22.814Z"
+    }
+  ],
+  "errors": 23,
+  "duration": "28.00s",
+  "speedMetrics": "1.93 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-200ml.html/08711327497221",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327497221 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:15.479Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-500ml.html/08711327507548",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327507548 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:18.463Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-1100ml.html/08711327507586",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327507586 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:14.037Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-sparkling-1100ml.html/08711327508453",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327508453 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:14.037Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-lemon-500ml.html/08711327519978",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327519978 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:18.464Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-peach-zero-1500ml.html/08711327547865",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327547865 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:18.464Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-lemon-1500ml.html/08711327547964",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327547964 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:20.379Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-zero-500ml.html/08711327549869",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327549869 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:14.037Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-peach-330ml.html/08711327571495",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327571495 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:15.479Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-lemon-330ml.html/08711327571501",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327571501 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:15.480Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-peach-250ml.html/08711327571518",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327571518 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:20.379Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-peach-zero-sugar-250ml.html/08711327571525",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327571525 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:20.380Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-330ml.html/08711327571532",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327571532 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:15.479Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-150ml.html/08711327571570",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327571570 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:19.430Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-peach-200ml.html/08711327579019",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327579019 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:20.379Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-lemon-1500ml.html/08711327579026",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327579026 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:15.478Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-lemon-500ml.html/08711327579040",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327579040 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:18.464Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-sparkling-zero-1500ml.html/08711327586086",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327586086 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:18.464Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-mango-zero-1500ml.html/08711327586703",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327586703 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:15.480Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-strawberry-1500ml.html/08711327623972",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327623972 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:14.036Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-green-strawberry-1500ml.html/08711327624511",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327624511 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:15.479Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-sparkling-green-citrus-500ml.html/08711327670235",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327670235 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:19.430Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.liptonicetea.nl/p/lipton-ice-tea-sparkling-green-citrus-1500ml.html/08711327670273",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=lipton&locale=nl-nl&brand_code=BF0648&gtin=08711327670273 failed, reason: ",
+      "checkedAt": "2026-03-12T06:40:20.379Z"
+    }
+  ]
+}

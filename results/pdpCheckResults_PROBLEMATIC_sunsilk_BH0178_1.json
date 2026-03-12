@@ -1,0 +1,90 @@
+{
+  "generatedAt": "2026-03-12T06:51:26.480Z",
+  "brand": "sunsilk",
+  "assortmentCode": "BH0178",
+  "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+  "totalProblematicPages": 9,
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/aninda-onarici-sampuan-500ml.html/00123123123125",
+      "gtin": "00123123123125",
+      "checkedAt": "2026-03-12T06:51:08.948Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/guclu-parlak-sampuan-500ml.html/00123123123126",
+      "gtin": "00123123123126",
+      "checkedAt": "2026-03-12T06:51:22.168Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/ultra-isilti-isilti-serumu-90ml.html/08683130095812",
+      "gtin": "08683130095812",
+      "checkedAt": "2026-03-12T06:51:26.479Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/ultra-isilti-sac-bakim-kremi-350ml.html/08683130095843",
+      "gtin": "08683130095843",
+      "checkedAt": "2026-03-12T06:51:22.169Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/kepege-karsi-2in1-sampuan-400ml.html/08683130108758",
+      "gtin": "08683130108758",
+      "checkedAt": "2026-03-12T06:50:52.810Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/brezilya-keratin-terapisi-sampuan-400ml.html/08683130108772",
+      "gtin": "08683130108772",
+      "checkedAt": "2026-03-12T06:51:25.018Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/saglikli-uzayan-sac-bakim-kremi-350ml.html/08683130111970",
+      "gtin": "08683130111970",
+      "checkedAt": "2026-03-12T06:51:00.494Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/brezilya-keratin-terapisi-yogun-onarici-220ml.html/08683130090381",
+      "gtin": "08683130090381",
+      "checkedAt": "2026-03-12T06:51:08.949Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0178",
+      "feedUrl": "https://www.elidor.com.tr/home.productfeed.json",
+      "url": "https://www.elidor.com.tr/p/ultra-isilti-sivi-sac-bakim-kremi-200ml.html/08683130095805",
+      "gtin": "08683130095805",
+      "checkedAt": "2026-03-12T06:51:08.948Z"
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "generatedAt": "2026-03-12T06:50:27.055Z",
+  "brand": "axe",
+  "assortmentCode": "BH0977",
+  "feedUrl": "https://www.lynxformen.com/uk/home.productfeed.json",
+  "totalUrlsChecked": 64,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/africa-body-spray.html/00000050082728",
+      "gtin": "00000050082728",
+      "checkedAt": "2026-03-12T06:49:14.296Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/cherry-spritz-premium-stick.html/00000059002185",
+      "gtin": "00000059002185",
+      "checkedAt": "2026-03-12T06:50:15.240Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/blue-lavander-premium-deodorant-stick.html/00000059004646",
+      "gtin": "00000059004646",
+      "checkedAt": "2026-03-12T06:50:08.669Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/sunset-fresh-roll-on-antiperspirant-deodorant.html/00000059004837",
+      "gtin": "00000059004837",
+      "checkedAt": "2026-03-12T06:49:16.008Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/lynx-africa-roll-on-antiperspirant-50ml.html/00000059095422",
+      "gtin": "00000059095422",
+      "checkedAt": "2026-03-12T06:50:00.401Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/epic-fresh-roll-on-antiperspirant.html/00000059095439",
+      "gtin": "00000059095439",
+      "checkedAt": "2026-03-12T06:49:14.297Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/body-spray-gold.html/08710447248997",
+      "gtin": "08710447248997",
+      "checkedAt": "2026-03-12T06:50:15.240Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/body-spray-ice-chill.html/08710447497302",
+      "gtin": "08710447497302",
+      "checkedAt": "2026-03-12T06:49:20.899Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/black-body-spray-deodorant.html/08712561614023",
+      "gtin": "08712561614023",
+      "checkedAt": "2026-03-12T06:50:11.992Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/ice-chill-antiperspirant.html/08717163640838",
+      "gtin": "08717163640838",
+      "checkedAt": "2026-03-12T06:50:27.055Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/africa-body-spray-deodorant.html/08717644012208",
+      "gtin": "08717644012208",
+      "checkedAt": "2026-03-12T06:50:26.741Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/dark-temptation-body-spray-deodorant.html/08717644277904",
+      "gtin": "08717644277904",
+      "checkedAt": "2026-03-12T06:49:55.496Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/body-spray-excite.html/08718114650197",
+      "gtin": "08718114650197",
+      "checkedAt": "2026-03-12T06:50:16.863Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/epic-fresh-body-spray.html/08720181192043",
+      "gtin": "08720181192043",
+      "checkedAt": "2026-03-12T06:50:23.416Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/epic-fresh-antiperspirant.html/08720181192050",
+      "gtin": "08720181192050",
+      "checkedAt": "2026-03-12T06:50:25.065Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/jungle-fresh-body-spray.html/08720181436703",
+      "gtin": "08720181436703",
+      "checkedAt": "2026-03-12T06:49:58.765Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/jungle-fresh-stick-antiperspirant.html/08720181437380",
+      "gtin": "08720181437380",
+      "checkedAt": "2026-03-12T06:50:16.863Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/white-oak-premium-body-spray.html/08720181515071",
+      "gtin": "08720181515071",
+      "checkedAt": "2026-03-12T06:50:16.863Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/cherry-spritz-premium-body-spray.html/08720181554643",
+      "gtin": "08720181554643",
+      "checkedAt": "2026-03-12T06:50:26.742Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/cocoa-velvet-premium-body-spray.html/08720181554650",
+      "gtin": "08720181554650",
+      "checkedAt": "2026-03-12T06:50:25.064Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/peach-infusion-premium-body-spray.html/08720181554667",
+      "gtin": "08720181554667",
+      "checkedAt": "2026-03-12T06:49:20.900Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/watermelon-freeze-premium-body-spray.html/08720181554674",
+      "gtin": "08720181554674",
+      "checkedAt": "2026-03-12T06:49:22.531Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/purple-patchouli-premium-body-spray.html/08720181554681",
+      "gtin": "08720181554681",
+      "checkedAt": "2026-03-12T06:50:08.670Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/sunset-fresh-deodorant-body-spray-150ml.html/08720181590825",
+      "gtin": "08720181590825",
+      "checkedAt": "2026-03-12T06:49:22.532Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/sunset-fresh-antiperspirant-spray-150ml.html/08720181590900",
+      "gtin": "08720181590900",
+      "checkedAt": "2026-03-12T06:49:20.899Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/black-vanilla-body-wash-for-men-400ml.html/08720181598791",
+      "gtin": "08720181598791",
+      "checkedAt": "2026-03-12T06:49:52.257Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/cherry-spritz-premium-body-wash.html/08720181598814",
+      "gtin": "08720181598814",
+      "checkedAt": "2026-03-12T06:50:25.062Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/peach-infusion-premium-body-wash.html/08720181598821",
+      "gtin": "08720181598821",
+      "checkedAt": "2026-03-12T06:50:11.992Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/sunset-fresh-shower-gel-225ml.html/08720181605666",
+      "gtin": "08720181605666",
+      "checkedAt": "2026-03-12T06:49:16.007Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/purple-patchouli-premium-body-wash.html/08720181622106",
+      "gtin": "08720181622106",
+      "checkedAt": "2026-03-12T06:49:55.496Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/black-antiperspirant-deodorant-aerosol.html/08712561620819",
+      "gtin": "08712561620819",
+      "checkedAt": "2026-03-12T06:50:08.669Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/dark-temptation-shower-gel.html/08720181079139",
+      "gtin": "08720181079139",
+      "checkedAt": "2026-03-12T06:49:48.901Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/excite-shower-gel.html/08720181079153",
+      "gtin": "08720181079153",
+      "checkedAt": "2026-03-12T06:49:20.899Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/africa-shower-gel.html/08720181079160",
+      "gtin": "08720181079160",
+      "checkedAt": "2026-03-12T06:49:52.257Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/black-shower-gel.html/08720181079177",
+      "gtin": "08720181079177",
+      "checkedAt": "2026-03-12T06:50:13.604Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/gold-shower-gel.html/08720181079184",
+      "gtin": "08720181079184",
+      "checkedAt": "2026-03-12T06:49:20.897Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/leather-cookies-shower-gel.html/08720181079405",
+      "gtin": "08720181079405",
+      "checkedAt": "2026-03-12T06:50:25.073Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/lynx-aqua-bergamot-premium-deodorant-body-spray.html/08720181445538",
+      "gtin": "08720181445538",
+      "checkedAt": "2026-03-12T06:50:25.064Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/blue-lavander-premium-deodorant-body-wash.html/08720181445545",
+      "gtin": "08720181445545",
+      "checkedAt": "2026-03-12T06:50:00.401Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/lynx-black-vanilla-premium-deodorant-body-spray.html/08720181445552",
+      "gtin": "08720181445552",
+      "checkedAt": "2026-03-12T06:49:24.262Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/emerald-sage-premium-body-spray.html/08720181445576",
+      "gtin": "08720181445576",
+      "checkedAt": "2026-03-12T06:49:20.899Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/lynx-sunset-fresh-win-big-gift-set.html/08720181651915",
+      "gtin": "08720181651915",
+      "checkedAt": "2026-03-12T06:49:20.898Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/lynx-ultimate-icons-plus-fine-fragrance-gift-set.html/08720181652172",
+      "gtin": "08720181652172",
+      "checkedAt": "2026-03-12T06:49:16.007Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/the-full-fragrance-duos-gift-set.html/08720181652295",
+      "gtin": "08720181652295",
+      "checkedAt": "2026-03-12T06:50:15.240Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/lynx-africa-the-o-g-duo.html/08720181652455",
+      "gtin": "08720181652455",
+      "checkedAt": "2026-03-12T06:50:15.240Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/lynx-supreme-selection-gift-set.html/08720181749063",
+      "gtin": "08720181749063",
+      "checkedAt": "2026-03-12T06:50:11.992Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/lynx-24-day-advent-calendar.html/08720181749087",
+      "gtin": "08720181749087",
+      "checkedAt": "2026-03-12T06:49:58.765Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/lynx-marshmallow-smoke-72hr-premium-body-spray-200-ml.html/08720181807893",
+      "gtin": "08720181807893",
+      "checkedAt": "2026-03-12T06:49:22.532Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/lynx-limited-edition-fifa-number-10-3-in-1-body-wash-225ml.html/08720181823251",
+      "gtin": "08720181823251",
+      "checkedAt": "2026-03-12T06:50:15.240Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/lynx-fine-fragrance-marshmallow-smoke-body-wash-400-ml.html/08720181830570",
+      "gtin": "08720181830570",
+      "checkedAt": "2026-03-12T06:49:57.128Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.lynxformen.com/uk/p/lynx-limited-edition-fifa-number-10-men's-deodorant-200ml.html/08720181863356",
+      "gtin": "08720181863356",
+      "checkedAt": "2026-03-12T06:49:48.901Z"
+    }
+  ],
+  "errors": 13,
+  "duration": "107.41s",
+  "speedMetrics": "0.60 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/black-vanilla-premium-deodorant-stick.html/00000059004653",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=en-GB&brand_code=BH0977&gtin=00000059004653 failed, reason: ",
+      "checkedAt": "2026-03-12T06:48:57.594Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/gold-antiperspirant-deodorant.html/08710447250259",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=en-GB&brand_code=BH0977&gtin=08710447250259 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:14.304Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/africa-antiperspirant-deodorant-stick.html/08717163611524",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=en-GB&brand_code=BH0977&gtin=08717163611524 failed, reason: ",
+      "checkedAt": "2026-03-12T06:48:57.595Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/africa-antiperspirant-deodorant-aerosol.html/08717644016572",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=en-GB&brand_code=BH0977&gtin=08717644016572 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:14.304Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/epic-fresh-shower-gel.html/08720181204067",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=en-GB&brand_code=BH0977&gtin=08720181204067 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:52.264Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/jungle-fresh-antiperspirant.html/08720181436772",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=en-GB&brand_code=BH0977&gtin=08720181436772 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:14.304Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/jungle-fresh-shower-gel.html/08720181442780",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=en-GB&brand_code=BH0977&gtin=08720181442780 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:14.304Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/blue-lavander-premium-body-wash.html/08720181598807",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=en-GB&brand_code=BH0977&gtin=08720181598807 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:06.006Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-coconut-sandalwood-lower-body-spray.html/08720181658143",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=en-GB&brand_code=BH0977&gtin=08720181658143 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:10.979Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-pear-cedarwood-lower-body-spray.html/08720181658150",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=en-GB&brand_code=BH0977&gtin=08720181658150 failed, reason: ",
+      "checkedAt": "2026-03-12T06:48:57.594Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/ice-chill-shower-gel.html/08720181079245",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=en-GB&brand_code=BH0977&gtin=08720181079245 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:48.905Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-fine-fragrance-collection-gift-set.html/08720181652332",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=en-GB&brand_code=BH0977&gtin=08720181652332 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:48.904Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.lynxformen.com/uk/p/lynx-limited-edition-fifa-number-10-men's-anti-perspirant-200ml.html/08720181863318",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=axe&locale=en-GB&brand_code=BH0977&gtin=08720181863318 failed, reason: ",
+      "checkedAt": "2026-03-12T06:50:16.864Z"
+    }
+  ]
+}

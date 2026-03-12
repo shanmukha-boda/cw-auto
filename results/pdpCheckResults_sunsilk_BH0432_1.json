@@ -1,0 +1,701 @@
+{
+  "generatedAt": "2026-03-12T06:50:01.658Z",
+  "brand": "sunsilk",
+  "assortmentCode": "BH0432",
+  "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+  "totalUrlsChecked": 113,
+  "problematicPagesFound": 2,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-liso-perfeito.html/07891037010048",
+      "gtin": "07891037010048",
+      "checkedAt": "2026-03-12T06:48:29.889Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-crescimento-saud%C3%A1vel.html/07891150002166",
+      "gtin": "07891150002166",
+      "checkedAt": "2026-03-12T06:48:35.794Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-ceramidas.html/07891150037397",
+      "gtin": "07891150037397",
+      "checkedAt": "2026-03-12T06:50:01.588Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-cachos-definidos.html/07891150037465",
+      "gtin": "07891150037465",
+      "checkedAt": "2026-03-12T06:48:32.819Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-oleo-hidratacao.html/07891150037540",
+      "gtin": "07891150037540",
+      "checkedAt": "2026-03-12T06:50:01.283Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-frutas-vermelhas-e-gengibre.html/07891150037601",
+      "gtin": "07891150037601",
+      "checkedAt": "2026-03-12T06:50:00.320Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-by-gabi-crespoforce.html/07891150037618",
+      "gtin": "07891150037618",
+      "checkedAt": "2026-03-12T06:50:00.318Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-by-rayza-babosa-e-%C3%B3leos.html/07891150060685",
+      "gtin": "07891150060685",
+      "checkedAt": "2026-03-12T06:49:49.609Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-by-niina-micelar-hialuronico.html/07891150063440",
+      "gtin": "07891150063440",
+      "checkedAt": "2026-03-12T06:49:27.459Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-coco-reconstrucao.html/07891150067516",
+      "gtin": "07891150067516",
+      "checkedAt": "2026-03-12T06:48:29.890Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-bambu-e-biotina.html/07891150070295",
+      "gtin": "07891150070295",
+      "checkedAt": "2026-03-12T06:48:36.765Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-bambu-e-biotina.html/07891150070301",
+      "gtin": "07891150070301",
+      "checkedAt": "2026-03-12T06:48:29.890Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-by-niina-colageno-vitamina-c.html/07891150080096",
+      "gtin": "07891150080096",
+      "checkedAt": "2026-03-12T06:49:27.459Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/mascara-de-tratamento-seda-by-niina-colageno-vitamina-c.html/07891150080119",
+      "gtin": "07891150080119",
+      "checkedAt": "2026-03-12T06:50:01.658Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-bomba-abacate-e-karit%C3%A9.html/07891150082595",
+      "gtin": "07891150082595",
+      "checkedAt": "2026-03-12T06:48:29.890Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-cachos-encantados.html/07891150083585",
+      "gtin": "07891150083585",
+      "checkedAt": "2026-03-12T06:49:38.098Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-crespos-encantados.html/07891150083592",
+      "gtin": "07891150083592",
+      "checkedAt": "2026-03-12T06:49:56.392Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-crespos-encantados.html/07891150083622",
+      "gtin": "07891150083622",
+      "checkedAt": "2026-03-12T06:50:00.320Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-brilho-encantado.html/07891150083639",
+      "gtin": "07891150083639",
+      "checkedAt": "2026-03-12T06:49:59.359Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-boom-hidratacao-pro-curvatura.html/07891150088504",
+      "gtin": "07891150088504",
+      "checkedAt": "2026-03-12T06:50:01.281Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-defini%C3%A7%C3%A3o-intensa.html/07891150088399",
+      "gtin": "07891150088399",
+      "checkedAt": "2026-03-12T06:48:29.892Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-defini%C3%A7%C3%A3o-flex%C3%ADvel.html/07891150095915",
+      "gtin": "07891150095915",
+      "checkedAt": "2026-03-12T06:49:49.609Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/m%C3%A1scara-de-tratamento-seda-boom-nutri%C3%A7%C3%A3o-intensa.html/07891150095939",
+      "gtin": "07891150095939",
+      "checkedAt": "2026-03-12T06:49:05.996Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/soro-day-after-seda-boom-volum%C3%A3o-power.html/07891150096219",
+      "gtin": "07891150096219",
+      "checkedAt": "2026-03-12T06:48:30.855Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/%C3%B3leo-em-gel-seda-boom-volum%C3%A3o-power.html/07891150096240",
+      "gtin": "07891150096240",
+      "checkedAt": "2026-03-12T06:48:29.893Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/emuls%C3%A3o-day-after-seda-boom-defini%C3%A7%C3%A3o-intensa.html/07891150096387",
+      "gtin": "07891150096387",
+      "checkedAt": "2026-03-12T06:49:59.359Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/serum-leave-in-seda-luminous-uv.html/07891150099821",
+      "gtin": "07891150099821",
+      "checkedAt": "2026-03-12T06:49:11.871Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/condicionador-seda-luminous-uv.html/07891150099838",
+      "gtin": "07891150099838",
+      "checkedAt": "2026-03-12T06:48:58.160Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/shampoo-seda-luminous-uv.html/07891150099845",
+      "gtin": "07891150099845",
+      "checkedAt": "2026-03-12T06:48:31.840Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-luminous-uv.html/07891150099852",
+      "gtin": "07891150099852",
+      "checkedAt": "2026-03-12T06:49:05.997Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.seda.com.br/p/mascara-de-tratamento-seda-luminous-uv.html/07891150099883",
+      "gtin": "07891150099883",
+      "checkedAt": "2026-03-12T06:48:35.794Z"
+    }
+  ],
+  "errors": 80,
+  "duration": "112.26s",
+  "speedMetrics": "1.01 URLs/second",
+  "problematicPages": [
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-frutas-vermelhas-e-gengibre.html/07891150031746",
+      "gtin": "07891150031746",
+      "checkedAt": "2026-03-12T06:48:36.761Z"
+    },
+    {
+      "type": "problematic",
+      "brand": "sunsilk",
+      "assortmentCode": "BH0432",
+      "feedUrl": "https://www.seda.com.br/home.productfeed.json",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-crespissimos.html/07891150066748",
+      "gtin": "07891150066748",
+      "checkedAt": "2026-03-12T06:50:01.544Z"
+    }
+  ],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-cachos-definidos-e-hidratados.html/07891037000322",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891037000322 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:27.462Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-ceramidas.html/07891037144705",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891037144705 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:27.462Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-by-gabi-crespoforce.html/07891150027541",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150027541 failed, reason: ",
+      "checkedAt": "2026-03-12T06:50:01.281Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-ceramidas.html/07891150037250",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150037250 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:49.613Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-crescimento-saud%C3%A1vel.html/07891150037274",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150037274 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:59.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-liso-perfeito.html/07891150037328",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150037328 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:27.461Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-pretos-luminosos.html/07891150037342",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150037342 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:38.102Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-oleo-hidratacao.html/07891150037366",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150037366 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:27.462Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-restauracao-instantanea.html/07891150037427",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150037427 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:49.613Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-mel-e-aveia.html/07891150037441",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150037441 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:05.999Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-hidratacao-diaria.html/07891150037458",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150037458 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:05.999Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-by-gabi-crespoforce.html/07891150037472",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150037472 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:59.364Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-frutas-vermelhas-e-gengibre.html/07891150037489",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150037489 failed, reason: ",
+      "checkedAt": "2026-03-12T06:50:01.281Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-liso-extremo.html/07891150037502",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150037502 failed, reason: ",
+      "checkedAt": "2026-03-12T06:48:23.927Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-liso-perfeito.html/07891150037519",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150037519 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:56.394Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-pretos-luminosos.html/07891150037526",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150037526 failed, reason: ",
+      "checkedAt": "2026-03-12T06:48:25.900Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-cha-verde-e-citricos.html/07891150037564",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150037564 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:11.873Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-restauracao-instantanea.html/07891150037571",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150037571 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:05.999Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-mel-e-aveia.html/07891150037588",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150037588 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:56.394Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-cachos-definidos.html/07891150037595",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150037595 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:49.612Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-liso-extremo.html/07891150037632",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150037632 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:49.613Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-brilho-encantado.html/07891150042773",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150042773 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:11.874Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-brilho-encantado.html/07891150042780",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150042780 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:59.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-abacate-e-karit%C3%A9.html/07891150049604",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150049604 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:49.612Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-abacate-e-karit%C3%A9.html/07891150049628",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150049628 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:59.364Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-definicao.html/07891150054493",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150054493 failed, reason: ",
+      "checkedAt": "2026-03-12T06:48:25.900Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-volumao.html/07891150054509",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150054509 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:27.462Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-transicao.html/07891150054523",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150054523 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:49.613Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-argan-reconstrucao.html/07891150056572",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150056572 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:11.874Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-argan-reconstrucao.html/07891150056589",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150056589 failed, reason: ",
+      "checkedAt": "2026-03-12T06:50:01.282Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/m%C3%A1scara-de-tratamento-seda-boom-restaura.html/07891150058019",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150058019 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:59.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/m%C3%A1scara-de-tratamento-seda-boom-nutre.html/07891150058026",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150058026 failed, reason: ",
+      "checkedAt": "2026-03-12T06:50:00.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/m%C3%A1scara-de-tratamento-seda-boom-hidrata.html/07891150058040",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150058040 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:38.102Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-by-rayza-babosa-e-%C3%B3leos.html/07891150060722",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150060722 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:56.394Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-by-rayza-babosa-e-%C3%B3leos.html/07891150060883",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150060883 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:27.462Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-by-niina-micelar-hialuronico.html/07891150063457",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150063457 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:05.999Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/super-condicionador-1-minuto-seda-hidratacao-maxima.html/07891150063945",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150063945 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:59.364Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/super-condicionador-1-minuto-seda-recuperacao-intensiva.html/07891150063952",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150063952 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:59.364Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/super-condicionador-1-minuto-seda-for%C3%A7a-&-brilho.html/07891150063969",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150063969 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:56.395Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/%C3%B3leo-em-gel-seda-boom.html/07891150066694",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150066694 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:49.614Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-ondas.html/07891150066717",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150066717 failed, reason: ",
+      "checkedAt": "2026-03-12T06:48:25.899Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-cachos.html/07891150066724",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150066724 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:05.999Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-crespos.html/07891150066731",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150066731 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:05.999Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-boom-des-coloridos.html/07891150066755",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150066755 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:59.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-coco-reconstrucao.html/07891150067509",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150067509 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:27.462Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-by-rayza-p%C3%B3s-danos.html/07891150072886",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150072886 failed, reason: ",
+      "checkedAt": "2026-03-12T06:48:31.836Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/m%C3%A1scara-de-tratamento-seda-by-rayza-p%C3%B3s-danos.html/07891150072893",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150072893 failed, reason: ",
+      "checkedAt": "2026-03-12T06:48:19.835Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/super-condicionador-seda-by-rayza-p%C3%B3s-danos.html/07891150072909",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150072909 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:11.873Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/mascara-de-tratamento-seda-raiz-limpa-ponta-sedosa.html/07891150078277",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150078277 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:59.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-raiz-limpa-ponta-sedosa.html/07891150078291",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150078291 failed, reason: ",
+      "checkedAt": "2026-03-12T06:48:23.926Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-raiz-limpa-ponta-sedosa.html/07891150078307",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150078307 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:49.612Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-hidrata-muito.html/07891150078314",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150078314 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:49.614Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-cresce-forte.html/07891150078338",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150078338 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:59.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-cresce-forte.html/07891150078345",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150078345 failed, reason: ",
+      "checkedAt": "2026-03-12T06:50:00.320Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-raiz-limpa-ponta-sedosa.html/07891150078352",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150078352 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:38.102Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-hidrata-muito.html/07891150078369",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150078369 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:59.365Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-by-niina-colageno-vitamina-c.html/07891150080089",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150080089 failed, reason: ",
+      "checkedAt": "2026-03-12T06:48:23.926Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-by-niina-colageno-vitamina-c.html/07891150080102",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150080102 failed, reason: ",
+      "checkedAt": "2026-03-12T06:50:01.282Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-bomba-coco-e-ricino.html/07891150082601",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150082601 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:49.613Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-cachos-encantados.html/07891150083615",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150083615 failed, reason: ",
+      "checkedAt": "2026-03-12T06:48:23.926Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-cachos-encantados.html/07891150083646",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150083646 failed, reason: ",
+      "checkedAt": "2026-03-12T06:48:21.957Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-crespos-encantados.html/07891150083653",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150083653 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:56.394Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-boom-hidratacao-pro-curvatura.html/07891150088467",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150088467 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:27.461Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-para-pentear-seda-pretos-luminosos.html/07898422745301",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07898422745301 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:05.999Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-modelador-antifrizz.html/07891150088368",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150088368 failed, reason: ",
+      "checkedAt": "2026-03-12T06:50:01.282Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-volume-m%C3%A1ximo.html/07891150088375",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150088375 failed, reason: ",
+      "checkedAt": "2026-03-12T06:48:30.851Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-volume-m%C3%A1ximo.html/07891150088450",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150088450 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:56.395Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/m%C3%A1scara-de-tratamento-seda-boom-hidrata%C3%A7%C3%A3o-duradoura.html/07891150088573",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150088573 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:59.364Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-volum%C3%A3o-power.html/07891150095885",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150095885 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:56.395Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-volum%C3%A3o-power.html/07891150095892",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150095892 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:38.102Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-defini%C3%A7%C3%A3o-intensa.html/07891150095908",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150095908 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:49.612Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/creme-de-pentear-seda-boom-defini%C3%A7%C3%A3o-flex%C3%ADvel.html/07891150095922",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150095922 failed, reason: ",
+      "checkedAt": "2026-03-12T06:48:25.900Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/geleia-lev%C3%ADssima-seda-boom-volume-m%C3%A1ximo.html/07891150096226",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150096226 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:05.999Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/geleia-creme-2-em-1-seda-boom-defini%C3%A7%C3%A3o-intensa.html/07891150096233",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150096233 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:11.873Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-boom-hidrata%C3%A7%C3%A3o-duradoura.html/07891150096257",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150096257 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:49.613Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/condicionador-seda-boom-nutri%C3%A7%C3%A3o-intensa.html/07891150096271",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150096271 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:59.364Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-boom-hidrata%C3%A7%C3%A3o-duradoura.html/07891150096288",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150096288 failed, reason: ",
+      "checkedAt": "2026-03-12T06:48:58.161Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/gommage-texturizadora-seda-boom-modelador-antifrizz.html/07891150096295",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150096295 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:49.612Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/s%C3%A9rum-gel-antifrizz-seda-boom-defini%C3%A7%C3%A3o-flex%C3%ADvel.html/07891150096301",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150096301 failed, reason: ",
+      "checkedAt": "2026-03-12T06:48:58.162Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.seda.com.br/p/shampoo-seda-boom-nutri%C3%A7%C3%A3o-intensa.html/07891150096318",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=sunsilk&locale=pt-BR&brand_code=BH0432&gtin=07891150096318 failed, reason: ",
+      "checkedAt": "2026-03-12T06:49:49.612Z"
+    }
+  ]
+}

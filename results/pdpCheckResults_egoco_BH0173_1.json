@@ -1,0 +1,70 @@
+{
+  "generatedAt": "2026-03-12T06:47:12.686Z",
+  "brand": "egoco",
+  "assortmentCode": "BH0173",
+  "feedUrl": "https://www.egoparahombres.com.co/home.productfeed.json",
+  "totalUrlsChecked": 9,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-gel-for-men-ultra-intense.html/07702006207850",
+      "gtin": "07702006207850",
+      "checkedAt": "2026-03-12T06:47:12.673Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-for-men-crema-para-peinar.html/07702006208796",
+      "gtin": "07702006208796",
+      "checkedAt": "2026-03-12T06:47:12.377Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-gel-for-men-attraction.html/07702006298940",
+      "gtin": "07702006298940",
+      "checkedAt": "2026-03-12T06:47:12.686Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-gel-for-men-extreme-max.html/07702006299923",
+      "gtin": "07702006299923",
+      "checkedAt": "2026-03-12T06:47:12.376Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-shampoo-black.html/07702006300216",
+      "gtin": "07702006300216",
+      "checkedAt": "2026-03-12T06:47:10.734Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-shampoo-force.html/07702006300254",
+      "gtin": "07702006300254",
+      "checkedAt": "2026-03-12T06:47:12.053Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-for-men-cera-modeladora.html/07702006300063",
+      "gtin": "07702006300063",
+      "checkedAt": "2026-03-12T06:47:11.096Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.egoparahombres.com.co/p/ego-cera-para-peinar-look-definido-15ml.html/07702006406352",
+      "gtin": "07702006406352",
+      "checkedAt": "2026-03-12T06:47:12.376Z"
+    }
+  ],
+  "errors": 1,
+  "duration": "4.10s",
+  "speedMetrics": "2.20 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.egoparahombres.com.co/p/ego-shampoo-black.html/07702006300285",
+      "error": "request to https://bin.cartwire.co/services/hashlanginfobutton?brand_name=egoco&locale=es-co&brand_code=BH0173&gtin=07702006300285 failed, reason: ",
+      "checkedAt": "2026-03-12T06:47:11.093Z"
+    }
+  ]
+}
