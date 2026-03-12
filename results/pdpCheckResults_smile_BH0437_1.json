@@ -1,0 +1,106 @@
+{
+  "generatedAt": "2026-03-12T10:37:16.918Z",
+  "brand": "smile",
+  "assortmentCode": "BH0437",
+  "feedUrl": "https://www.signal-zahnpflege.de/home.productfeed.json",
+  "totalUrlsChecked": 15,
+  "problematicPagesFound": 0,
+  "successfulPages": [
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-junior-zahnb%C3%BCrste-6-13-jahre-extra-soft-trio.html/08720181502804",
+      "gtin": "08720181502804",
+      "checkedAt": "2026-03-12T10:36:58.639Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-kids-zahnb%C3%BCrste-0-6-jahre-extra-soft-trio.html/08720181502811",
+      "gtin": "08720181502811",
+      "checkedAt": "2026-03-12T10:36:58.655Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-sport-gel-fresh-xxl.html/08718114436395",
+      "gtin": "08718114436395",
+      "checkedAt": "2026-03-12T10:37:16.918Z"
+    },
+    {
+      "type": "successful",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-cool-mint-xxl.html/08720181323577",
+      "gtin": "08720181323577",
+      "checkedAt": "2026-03-12T10:36:58.708Z"
+    }
+  ],
+  "errors": 11,
+  "duration": "18.62s",
+  "speedMetrics": "0.81 URLs/second",
+  "problematicPages": [],
+  "errorPages": [
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-white-now.html/08712561437370",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:36:58.899Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-white-now-time-correct.html/08720181327186",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:36:58.651Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-kids-zahnpasta-0-6-jahre-mit-fruchtgeschmack.html/08720181501456",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:36:58.852Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-junior-zahnpasta-6-13-jahre-milde-minze.html/08720181501760",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:36:58.897Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-junior-zahnpasta-6-13-jahre-rote-fr%C3%BCchte.html/08720181501777",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:36:58.821Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-junior-zahnb%C3%BCrste-6-13-jahre-extra-soft.html/08720181502828",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:36:58.829Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-kids-zahnb%C3%BCrste-0-6-jahre-extra-soft.html/08720181502835",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:36:58.828Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-kariesschutz.html/08720181323539",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:36:58.671Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-sport-gel-fresh.html/08720181323546",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:36:58.894Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-cool-mint.html/08720181323553",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:36:58.884Z"
+    },
+    {
+      "type": "error",
+      "url": "https://www.signal-zahnpflege.de/p/signal-zahnpasta-kariesschutz-xxl.html/08720181323560",
+      "error": "HTTP Error: 404 Not Found",
+      "checkedAt": "2026-03-12T10:36:58.653Z"
+    }
+  ]
+}
